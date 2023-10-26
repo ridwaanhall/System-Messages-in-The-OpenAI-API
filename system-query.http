@@ -13,6 +13,7 @@ content-type: application/json
       "role": "user",
       "content": "How do I connect a new monitor?"
     },
+    // this is potional for more response
     {
         "role": "assistant",
         "content": "respond in both english and indonesia"
