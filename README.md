@@ -1,0 +1,1 @@
+sistem ini menggunakan API dari OpenAI.
