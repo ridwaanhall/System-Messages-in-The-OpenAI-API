@@ -1,7 +1,7 @@
 {
     "rest-client.environmentVariables": {
       "openai": {
-        "key": "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"
+        "key": "YOUR OPENAI API KEY"
       }
     }
   }

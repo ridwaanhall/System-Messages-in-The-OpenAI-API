@@ -1,6 +1,5 @@
 POST https://api.openai.com/v1/chat/completions
 Authorization: Bearer {{key}}
-
 content-type: application/json
 
 {
